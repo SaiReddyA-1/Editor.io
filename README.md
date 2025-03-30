@@ -1,7 +1,7 @@
 <div align="center">
 
 # Editor.io
-## [https://editor.Sai-Reddy.tech/](https://editor0saireddy.ccbp.tech/)
+## [https://editor0saireddy.ccbp.tech/](https://editor0saireddy.ccbp.tech/)
 
 </div>
 
